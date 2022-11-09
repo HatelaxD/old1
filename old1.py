@@ -81,7 +81,7 @@ def notice():
 	runtxt("\n\033[0;97m  Free 2009 cloning Tool For Free Aproval Follow")
 	os.system("xdg-open https://web.facebook.com/hatela.dlewix")
 	runtxt("\033[0;97m Key Approval ke Lai Follow kran >> %s%s"%(G,basesplit))
-	runtxt("\033[0;97m Key group admin ke post pe coment krein")
+	runtxt("\033[0;97m Key ib send kr dain")
 	os.system("xdg-open https://web.facebook.com/hatela.dlewix")
 	subprocess.check_output(["am", "start", "https://web.facebook.com/hatela.dlewix"])
 	
